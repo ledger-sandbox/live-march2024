@@ -199,7 +199,7 @@
     "reselect": "4.0.0",
     "rn-fetch-blob": "^0.12.0",
     "rxjs": "^7.8.1",
-    "semver": "^7.3.7",
+    "semver": "^7.5.2",
     "storyly-react-native": "2.0.1",
     "styled-components": "^5.3.3",
     "styled-system": "^5.1.5",
