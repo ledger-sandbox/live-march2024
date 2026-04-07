@@ -55,7 +55,7 @@
     "bignumber.js": "^9.1.2",
     "expect": "^27.4.6",
     "invariant": "^2.2.2",
-    "lodash": "^4.17.21",
+    "lodash": "^4.18.1",
     "near-api-js": "^3.0.2",
     "rxjs": "^7.8.1"
   },
